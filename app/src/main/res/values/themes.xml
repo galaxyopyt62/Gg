@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.GalaxyStream" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#3B6CFF</item>
+        <item name="colorPrimaryDark">#0B0E1A</item>
+        <item name="colorAccent">#3B6CFF</item>
+        <item name="android:windowBackground">#0B0E1A</item>
+    </style>
+</resources>
