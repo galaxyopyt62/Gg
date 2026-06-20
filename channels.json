@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Sample HLS Test Stream",
+    "subtitle": "Public test stream — swap for your own licensed source",
+    "category": "Demo",
+    "sourceType": "hls",
+    "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "thumbnail": "",
+    "isLive": false
+  },
+  {
+    "title": "YouTube Live Example",
+    "subtitle": "Embedded via YouTube's official iframe player (fully legal embed)",
+    "category": "Demo",
+    "sourceType": "youtube",
+    "embedId": "jfKfPfyJRdk",
+    "thumbnail": "",
+    "isLive": true
+  },
+  {
+    "title": "Twitch Channel Example",
+    "subtitle": "Embedded via Twitch's official iframe player",
+    "category": "Demo",
+    "sourceType": "twitch",
+    "embedId": "twitch",
+    "thumbnail": "",
+    "isLive": true
+  }
+]
