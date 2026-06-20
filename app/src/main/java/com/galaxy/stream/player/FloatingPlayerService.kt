@@ -33,7 +33,7 @@ class FloatingPlayerService : Service() {
         val notification: Notification = NotificationCompat.Builder(this, channelId)
             .setContentTitle("Galaxy Stream")
             .setContentText("Playing in background")
-            .setSmallIcon(R.mipmap.ic_launcher)
+            .setSmallIcon(android.R.drawable.ic_media_play)
             .build()
         startForeground(1, notification)
         return START_NOT_STICKY
